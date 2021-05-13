@@ -1,5 +1,6 @@
 PKG_NAME := uchardet
-URL = https://www.freedesktop.org/software/uchardet/releases/uchardet-0.0.7.tar.xz
+URL = https://github.com/freedesktop/uchardet.git
 ARCHIVES = 
+ARCHIVES_GIT = 
 
 include ../common/Makefile.common
